@@ -1,0 +1,5 @@
+Öncelikle Seri İşlemler İçin tokens.txt ye Tokenlerinizi Girin
+Daha Sonra nicknamechecker.py yi Açın
+Diğer txt Dosyalarını Sakın Ellemeyin Ellerseniz Bozulur İsimlerini Değiştirmeyin
+Bu Proje Tüm Haklarıyla 5x5x5x5x (x)'e Aittir Parayla Aldıysanız Dolandırıldınız Demektir
+Bu Proje MIT Lisansı İle Korunur İzinsiz En Ufak Eylemde Yasal Her İşlem Başlatılır
