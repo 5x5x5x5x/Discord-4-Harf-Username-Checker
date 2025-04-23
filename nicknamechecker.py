@@ -5,7 +5,7 @@ from tkinter import messagebox
 import os
 
 token_file = "tokens.txt"
-input_file = "usernamelist.txt"
+input_file = "usernameslist.txt"
 output_file = "emptyusernames.txt"
 
 if os.path.exists(output_file):
